@@ -1,6 +1,6 @@
 #!bin/bash
 # Grep MyiP
-# by TheCarsLP & xyzbomber
+# by xCuzImPro/YaKuZaHD & xyzbomber
 
 
 echo "Hole ext.iP"
